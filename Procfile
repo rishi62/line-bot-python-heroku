@@ -1,1 +1,1 @@
-./run.py
+web: ./run.py
