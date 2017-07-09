@@ -1,2 +1,11 @@
-line-bot-sdk
-flask
+Flask==0.12           
+Flask-Assets==0.12    
+Flask-Babel==0.11.1
+Flask-Script==2.0.5
+httplib2==0.9.2       
+itsdangerous==0.24    
+Jinja2==2.9.4         
+Mako==1.0.6           
+MarkupSafe==0.23      
+oauth2==1.9.0.post1
+line-bot-sdk==1.1.0
